@@ -6,4 +6,4 @@ The representation helps to learn the topology of the fingerboard of a string in
 Currently, the fingerboard only support typical double bass regular tuning (E, A, D and G strings).
 
 
-The page is available at [wildbits.github.io/fingerboard](http://wildbits.github.io/fingerboard).
+The page is available at [wildbits.github.io/fingerboard/app.html](http://wildbits.github.io/fingerboard/app.html).
